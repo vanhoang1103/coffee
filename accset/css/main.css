@@ -49,7 +49,7 @@
 }
 
 .home_img {
-    background: url(/accset/css/coffeehouse.jpg);
+    background: url(./accset/css/coffeehouse.jpg);
     padding-top: 60%;
     margin-top: 48px;
     position: relative;
